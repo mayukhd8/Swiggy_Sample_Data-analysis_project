@@ -1,6 +1,6 @@
 # Swiggy_Sample_Data-analysis_project
 
-SQL Techniques Used
+SQL Techniques Used\n
 Joins
 Ranking and Partition
 Rolling Sum
